@@ -1,0 +1,21 @@
+{
+  "name": "ex",
+  "version": "1.0.0",
+  "description": "an express app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "henrica",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "bulma": "^0.7.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "nodemon": "^1.18.2",
+    "vue": "^2.5.16"
+  }
+}
